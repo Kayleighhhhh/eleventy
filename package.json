@@ -1,0 +1,25 @@
+{
+  "name": "eleventy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kayleighhhhh/eleventy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Kayleighhhhh/eleventy/issues"
+  },
+  "homepage": "https://github.com/Kayleighhhhh/eleventy#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.8"
+  }
+}
